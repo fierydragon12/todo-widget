@@ -3,4 +3,4 @@ Task - 1 - independent component  (course "JavaScript Core - from Beginning to M
 
 
 ### DEMO 
-fierydragon12.github.io (https://fierydragon12.github.io/)
+https://fierydragon12.github.io/
