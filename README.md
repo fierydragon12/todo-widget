@@ -1,4 +1,4 @@
-# todo-widget
+### todo-widget
 Task - 1 - independent component  (course "JavaScript Core - from Beginning to MVC Application")
 
 
@@ -6,7 +6,7 @@ Task - 1 - independent component  (course "JavaScript Core - from Beginning to M
 https://fierydragon12.github.io/
 
 
-###Write component Todo list.
+###Write component Todo list
 
 #Requirements:
 - input field and add-button
